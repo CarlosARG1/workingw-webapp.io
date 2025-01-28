@@ -1,3 +1,3 @@
-# Example of webapp.io for React and Cypress
+# Trabajando con React en Cypress
 
-This example sets up Cypress for end-to-end testing within a React project.
+Este sitio se usa para hacer purebas con webapp.io
